@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4i0008_000.yaml, hash: 'sha256:6bd66f079644aa68c37cc50a39031343a856176bbaf7bc0399c031c3ed141cd8'}
   - {seq: 1, filename: KR4i0008_001.yaml, hash: 'sha256:87b40d6f562e004c088feb0bc2493ad517d91c612bc6fb4551fae3fe6ccb7b75'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0008_000.markers.yaml, hash: 'sha256:898972aa1414eee544969b734f572ae785d3dfd20c7adc31040c1d067d16b63e'}
-  - {seq: 1, role: markers, filename: assets/KR4i0008_001.markers.yaml, hash: 'sha256:be0d423e2c0107edb7f68fbab86eae5b900e951ffcb29026d0d991c7fd13330e'}
+  - {seq: 0, role: markers, filename: assets/KR4i0008_000.markers.yaml, hash: 'sha256:754ce3b6e6347e1e45bb44eb64f31c3e1e0421960d3a4332e0b910fd5a8de60f'}
+  - {seq: 1, role: markers, filename: assets/KR4i0008_001.markers.yaml, hash: 'sha256:4a3882d2a5266218e5c4b00cc950fe21a3a693f22843d634836843d6e295809c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 中山詩話
   type: section
   level: 1
-hash: sha256:05306da7e5d9951bcf0d958ecd039e50c43a7c5d7e076ec3268f49c328f32cb6
+hash: sha256:5366edca29ea0f3f9e073711475a79f9e86b06c44216a34af5917e406da7b7cb
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
